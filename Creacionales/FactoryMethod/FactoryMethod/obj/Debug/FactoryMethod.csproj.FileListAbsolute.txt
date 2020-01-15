@@ -1,0 +1,7 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb

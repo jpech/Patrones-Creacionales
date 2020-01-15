@@ -1,0 +1,7 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
